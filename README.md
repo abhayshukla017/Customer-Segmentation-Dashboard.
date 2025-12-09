@@ -32,7 +32,7 @@ After computing RFM values, a **K-Means model** segments customers into four beh
 
 
 
-![Customer Segmentation Dashboard]<img width="1093" height="615" alt="Screenshot 2025-11-06 163853 (2)" src="https://github.com/user-attachments/assets/c00d1be2-9a87-4791-bace-03de32dc18fe" />
+Customer Segmentation Dashboard<img width="1093" height="615" alt="Screenshot 2025-11-06 163853 (2)" src="https://github.com/user-attachments/assets/c00d1be2-9a87-4791-bace-03de32dc18fe" />
 
 
 The dashboard presents:
