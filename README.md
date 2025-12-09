@@ -30,9 +30,10 @@ After computing RFM values, a **K-Means model** segments customers into four beh
 
 ## 📊 Dashboard Preview
 
-Add your dashboard screenshot here:
 
-![Customer Segmentation Dashboard](RFM_Analysis.png)
+
+![Customer Segmentation Dashboard]<img width="1093" height="615" alt="Screenshot 2025-11-06 163853 (2)" src="https://github.com/user-attachments/assets/c00d1be2-9a87-4791-bace-03de32dc18fe" />
+
 
 The dashboard presents:
 - Customer distribution by cluster  
@@ -89,7 +90,7 @@ This segmentation project helps businesses:
 
 ## 📬 Contact
 
-**Created by:** ABHAY SHUKLA 
+**Created by:** ABHAY SHUKLA   
 📧 Email: **abhayshukla8108@gmail.com**  
 🔗 LinkedIn: **www.linkedin.com/in/abhay-shukla-9849b4285**  
 
