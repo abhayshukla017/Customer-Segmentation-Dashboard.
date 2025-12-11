@@ -1,10 +1,10 @@
-# 🧠 Customer Segmentation Using RFM & K-Means Clustering
+# Customer Segmentation Using RFM & K-Means Clustering
 
 This repository contains a complete **Customer Segmentation Project** built using **RFM (Recency, Frequency, Monetary) Analysis** and **K-Means Clustering**. It also includes an **interactive Power BI Dashboard** for visualizing customer groups and generating actionable insights. Customer segmentation helps businesses understand customer behavior, identify high-value clients, re-engage at-risk customers, and create targeted marketing strategies.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project leverages **RFM metrics** along with **K-Means clustering** to automatically group customers into meaningful segments. The RFM model helps quantify customer behavior, and clustering aids in creating data-driven customer groups.
 
@@ -17,7 +17,7 @@ After computing RFM values, a **K-Means model** segments customers into four beh
 
 ---
 
-## 🧩 Customer Segments
+## Customer Segments
 
 | Cluster | Description | Recommended Action |
 |--------|-------------|--------------------|
@@ -28,7 +28,7 @@ After computing RFM values, a **K-Means model** segments customers into four beh
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 
 
@@ -43,7 +43,7 @@ The dashboard presents:
 
 ---
 
-## 📊 Key Insights & Metrics
+## Key Insights & Metrics
 
 - **Total Customers:** 366  
 - **Average Recency:** 346.9 days  
@@ -58,7 +58,7 @@ The dashboard presents:
 
 ---
 
-## 🧰 Tools & Technologies Used
+## Tools & Technologies Used
 
 ### Data Processing & Modeling
 - Python  
@@ -77,18 +77,18 @@ The dashboard presents:
 
 ---
 
-## 🧠 Business Impact
+## Business Impact
 
 This segmentation project helps businesses:
-- 🏆 Identify and reward loyal customers  
-- ⚠️ Detect customers at risk of churn  
-- 🌱 Develop strategies for new customer retention  
-- 🎯 Run personalized, data-driven marketing campaigns  
-- 📈 Improve overall customer lifetime value  
+-  Identify and reward loyal customers  
+-  Detect customers at risk of churn  
+-  Develop strategies for new customer retention  
+-  Run personalized, data-driven marketing campaigns  
+-  Improve overall customer lifetime value  
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Created by:** ABHAY SHUKLA   
 📧 Email: **abhayshukla8108@gmail.com**  
